@@ -1,6 +1,6 @@
-# Coral Bleach Detection using Machine Learning at Orpheus Island
+# Coral Bleach Classification using Machine Learning on Orpheus Island
 
-- Model: AlexNet + ColorTexture
+- Model: VGG16 in CNN
 
 ## Reference
-Fawad, Ahmad, I., Ullah, A. et al. Machine learning framework for precise localization of bleached corals using bag-of-hybrid visual feature classification. Sci Rep 13, 19461 (2023). https://doi.org/10.1038/s41598-023-46971-7 
+https://www.tsl.co.jp/ai-seminar-contents-04/
