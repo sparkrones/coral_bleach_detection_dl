@@ -32,7 +32,16 @@ cd coral_bleach_detection_dl
 pip install -r requirements.txt
 ```
 
-### 2. Execution
+### 2. Specify Local Directories
+Update the directory paths in `bleach_detection.py` to match your local dataset location. Ensure your images are organized into separate folders for each class.
+
+```python
+# Update these paths in bleach_detection.py
+bleached_dir = 'C:/path/to/your/Bleached/'
+unbleached_dir = 'C:/path/to/your/Unbleached/'
+```
+
+### 3. Execution
 Run the detection script:
 ```bash
 python bleach_detection.py
