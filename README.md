@@ -26,6 +26,8 @@ The script processes coral reef images from the Orpheus Island area to distingui
 Clone the repository and install the required dependencies:
 ```bash
 git clone https://github.com/sparkrones/coral_bleach_detection_dl.git
+```
+```bash
 cd coral_bleach_detection_dl
 pip install -r requirements.txt
 ```
