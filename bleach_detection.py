@@ -23,8 +23,8 @@ repeats = 2
 
 
 # dataset directory
-bleached_dir = 'C:/Users/cherr/Downloads/archive/Train/Bleached/'
-unbleached_dir = "C:/Users/cherr/Downloads/archive/Train/Unbleached/"
+bleached_dir = 'C:/path/to/your/Bleached/'
+unbleached_dir = 'C:/path/to/your/Unbleached/'
 
 
 # load pretrained AlexNet model
