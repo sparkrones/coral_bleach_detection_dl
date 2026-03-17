@@ -20,11 +20,21 @@ The script processes coral reef images from the Orpheus Island area to distingui
     * **Model**: Support Vector Machine (SVM) with a quadratic kernel (`poly`, `degree=2`).
     * `k = 4`: Stratified K-Fold Cross-Validation to ensure robust performance metrics.
 
-## Getting Started
+## Setup and Usage
 
-1. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
+### 1. Installation
+Clone the repository and install the required dependencies:
+```bash
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
+pip install -r requirements.txt
+```
+
+### 2. Execution
+Run the detection script:
+```bash
+python bleach_detection.py
+```
 
 ## References
 
