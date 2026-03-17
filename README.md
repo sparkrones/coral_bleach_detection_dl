@@ -20,9 +20,11 @@ The script processes coral reef images from the Orpheus Island area to distingui
     * **Model**: Support Vector Machine (SVM) with a quadratic kernel (`poly`, `degree=2`).
     * `k = 4`: Stratified K-Fold Cross-Validation to ensure robust performance metrics.
 
-## Expected Outcomes
+## Getting Started
 
-By combining spatial invariant features (BoF) with color-texture data, this model aims to improve the **Recall** (initially 40.0%) and **Accuracy** (initially 60.0%) reported in preliminary studies. The objective is to align performance with state-of-the-art benchmarks that reach up to 96.2% accuracy using similar hybrid frameworks.
+1. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
 
 ## References
 
