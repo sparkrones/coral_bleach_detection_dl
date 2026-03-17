@@ -1,5 +1,5 @@
-numpy
-opencv-python
-torch
-torchvision
-scikit-learn
+numpy>=1.24.0
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+scikit-learn>=1.3.0
