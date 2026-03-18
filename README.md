@@ -8,7 +8,7 @@ The script processes coral reef images from the Orpheus Island area to distingui
 
 ### Pipeline & Parameters
 
-* **Data Source**: Images of branching, soft, and massive corals collected via an OM SYSTEM Tough TG-7 camera at Orpheus Island.
+* **Data Source**: Images of branching, soft, and massive corals collected by an OM SYSTEM Tough TG-7 camera at Orpheus Island.
 * **Feature Extraction (Hybrid)**:
     * **Deep Features**: Extracted using a pre-trained `AlexNet` (features layer) as a backbone.
     * **Color-Texture Features**: 256-bin RGB histograms to capture bleaching-specific color shifts.
